@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=zdenda142&theme=radical&background=242737)](https://git.io/streak-stats)
 
 <!--
 **zdenda142/zdenda142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
