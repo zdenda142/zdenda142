@@ -2,7 +2,6 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=zdenda142&theme=radical&background=242737)](https://git.io/streak-stats)
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zdenda142&label=Profile%20views&color=0e75b6&style=flat" alt="zdenda142" /> </p>
 </p>
